@@ -2,19 +2,19 @@
 
 # Educational Recommender System 🎓
 
-[![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.11.0-FF6F00?logo=tensorflow)](https://www.tensorflow.org/js)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.2-7952B3?logo=bootstrap)](https://getbootstrap.com/)
-[![Plotly.js](https://img.shields.io/badge/Plotly.js-2.27.0-3F4F75?logo=plotly)](https://plotly.com/javascript/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![TensorFlow.js](assets/1.png)](https://www.tensorflow.org/js)
+[![Bootstrap](assets/2.png)](https://getbootstrap.com/)
+[![Plotly.js](assets/3.png)](https://plotly.com/javascript/)
+[![License](assets/4.png)](LICENSE)
 
 > A fully functional, browser-based educational course recommender system using **hybrid AI algorithms** (Collaborative Filtering + Content-Based Filtering) implemented with TensorFlow.js. No installation or server required!
 
 ---
 <br>
 
-<img width="1419" height="849" alt="Screenshot 2026-07-16 193629" src="https://github.com/user-attachments/assets/641d54e8-517d-4141-8059-f7015dcdec7e" />
-<img width="612" height="701" alt="Screenshot 2026-07-16 193706" src="https://github.com/user-attachments/assets/b8683097-8795-4a61-9666-d1080c5e8331" />
-<img width="612" height="816" alt="Screenshot 2026-07-16 193656" src="https://github.com/user-attachments/assets/b81b178a-df46-4b05-8cdf-b46409bcaeda" />
+<img width="1419" height="849" alt="Screenshot 2026-07-16 193629" src="assets/5.png" />
+<img width="612" height="701" alt="Screenshot 2026-07-16 193706" src="assets/6.png" />
+<img width="612" height="816" alt="Screenshot 2026-07-16 193656" src="assets/7.png" />
 
 
 <br>
